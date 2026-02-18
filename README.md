@@ -11,7 +11,7 @@
   <a href="mailto:gowthamtadikamalla123@gmail.com"><img src="https://img.shields.io/badge/Email-gowthamtadikamalla123%40gmail.com-informational" /></a>
   <a href="https://www.linkedin.com/in/gowtham-krishna-t/"><img src="https://img.shields.io/badge/LinkedIn-gowtham--krishna--t-blue" /></a>
   <a href="https://gowthamt.me"><img src="https://img.shields.io/badge/Website-gowthamt.me-success" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Gowthamtadikamalla&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
