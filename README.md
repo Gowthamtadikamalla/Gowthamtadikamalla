@@ -67,21 +67,10 @@ I’m a **Master of Data Science** student at the **University of Maryland, Coll
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" height="180" />
-</p>
-
----
-
 ## Contact
 - Email: **gowthamtadikamalla123@gmail.com**
-- LinkedIn: **linkedin.com/in/gowtham-krishna-t/**
-- Website: **gowthamt.me**
+- LinkedIn: [gowtham-krishna-t](https://www.linkedin.com/in/gowtham-krishna-t/)
+- Website: [gowthamt.me](https://gowthamt.me/)
+
 
 If you’re hiring for **Data Science, ML Engineering, Data Engineering**, I’d love to connect.
