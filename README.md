@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Gowtham Krishna</h1>
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=650&lines=M.S.+Data+Science+%40+UMD+(GPA+4.0);Data+Science+%7C+ML+Engineering+%7C+Data+Engineering;RAG+Systems%2C+Agentic+AI%2C+MLOps%2C+Automation;Open+to+Internships+%26+New+Grad+Roles+(May+2026)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=650&lines=M.S.+Data+Science+%40+UMD+;Data+Science+%7C+ML+Engineering+%7C+Data+Engineering;RAG+Systems%2C+Agentic+AI%2C+MLOps%2C+Automation;Open+to+Internships+%26+New+Grad+Roles+(May+2026)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 ---
 
 ## About Me
-I’m a **Master of Data Science** student at the **University of Maryland, College Park (GPA 4.0)**, and a **Teaching Assistant for NLP**. I build **LLM-powered systems**, especially **RAG pipelines, multi-agent workflows, and ML automation**, with strong foundations in **data engineering and MLOps**.
+I’m a **Master of Data Science** student at the **University of Maryland, College Park**, and a **Teaching Assistant for NLP**. I build **LLM-powered systems**, especially **RAG pipelines, multi-agent workflows, and ML automation**, with strong foundations in **data engineering and MLOps**.
 
 - 🎓 M.S. Data Science @ UMD, expected **May 2026**
 - 🧠 Interests: RAG, agentic AI, evaluation, retrieval, automation, ML systems
