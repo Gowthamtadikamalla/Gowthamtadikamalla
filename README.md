@@ -69,7 +69,7 @@ I’m a **Master of Data Science** student at the **University of Maryland, Coll
 ## Contact
 - Email: **gowthamtadikamalla123@gmail.com**
 - LinkedIn: [gowtham-krishna-t](https://www.linkedin.com/in/gowtham-krishna-t/)
-- Website: [gowthamt.me](https://gowthamt.me/)
+- Website: [gowthamt.me](https://gowthamt.tech/)
 
 
 If you’re hiring for **Data Science, ML Engineering, Data Engineering**, I’d love to connect.
